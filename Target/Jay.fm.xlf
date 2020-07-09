@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Jay.fm"
+    source-language="en"
+    MadCap:file-filter=""
+    datatype="x-mif"
+    target-language="gu">
+    <header>
+      <skl><external-file
+          href="Jay.fm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">22</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2"
+        tool-name="Lingo"
+        tool-version="11.1.7494.28653"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-mif-marker-mtext"
+        phase-name="pretrans"><source>Jay Test</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Jay Test</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-mif-pgfnumformat"
+        phase-name="pretrans"><source><ph
+            id="1"
+            ctype="x-mif-pgfnumformat-prefix" xmlns="urn:oasis:names:tc:xliff:document:1.2">T:</ph>Table <ph
+            id="2"
+            ctype="x-mif-pgfnumformat-counter" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;n+&gt;</ph>: </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1"
+              ctype="x-mif-pgfnumformat-prefix" xmlns="urn:oasis:names:tc:xliff:document:1.2">T:</ph>Table <ph
+              id="2"
+              ctype="x-mif-pgfnumformat-counter" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;n+&gt;</ph>:</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-mif-variabledef"
+        phase-name="pretrans"><source> (Continued)</source><seg-source><mrk
+            mtype="protected"
+            mid="1"> </mrk><mrk
+            mtype="seg"
+            mid="2">(Continued)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="protected"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-mif-variabledef"
+        phase-name="pretrans"><source> (Sheet <ph
+            id="1"
+            ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$tblsheetnum&gt;</ph> of <ph
+            id="2"
+            ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$tblsheetcount&gt;</ph>)</source><seg-source><mrk
+            mtype="protected"
+            mid="1"> </mrk><mrk
+            mtype="seg"
+            mid="2">(Sheet <ph
+              id="1"
+              ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$tblsheetnum&gt;</ph> of <ph
+              id="2"
+              ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$tblsheetcount&gt;</ph>)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="protected"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-mif-xrefdef"
+        phase-name="pretrans"><source>“<ph
+            id="1"
+            ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$paratext&gt;</ph>” on page <ph
+            id="2"
+            ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$pagenum&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">“<ph
+              id="1"
+              ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$paratext&gt;</ph>” on page <ph
+              id="2"
+              ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$pagenum&gt;</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-mif-xrefdef"
+        phase-name="pretrans"><source>page <ph
+            id="1"
+            ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$pagenum&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">page <ph
+              id="1"
+              ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$pagenum&gt;</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-mif-xrefdef"
+        phase-name="pretrans"><source>See “<ph
+            id="1"
+            ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$paratext&gt;</ph>” on page <ph
+            id="2"
+            ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$pagenum&gt;</ph>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">See “<ph
+              id="1"
+              ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$paratext&gt;</ph>” on page <ph
+              id="2"
+              ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$pagenum&gt;</ph>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-mif-xrefdef"
+        phase-name="pretrans"><source>Table <ph
+            id="1"
+            ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$paranumonly&gt;</ph>, “<ph
+            id="2"
+            ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$paratext&gt;</ph>,” on page <ph
+            id="3"
+            ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$pagenum&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Table <ph
+              id="1"
+              ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$paranumonly&gt;</ph>, “<ph
+              id="2"
+              ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$paratext&gt;</ph>,” on page <ph
+              id="3"
+              ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$pagenum&gt;</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-mif-xrefdef"
+        phase-name="pretrans"><source>Table <ph
+            id="1"
+            ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$paranumonly&gt;</ph> on page <ph
+            id="2"
+            ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$pagenum&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Table <ph
+              id="1"
+              ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$paranumonly&gt;</ph> on page <ph
+              id="2"
+              ctype="x-mif-variable" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;$pagenum&gt;</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-mif-string"
+        phase-name="pretrans"><source>Jay Test</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Jay Test</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-mif-string"
+        phase-name="pretrans"><source>some stuff here</source><seg-source><mrk
+            mtype="seg"
+            mid="1">some stuff here</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-mif-string"
+        phase-name="pretrans"><source>Jay Heading 1</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Jay Heading 1</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-mif-string"
+        phase-name="pretrans"><source>blah blah</source><seg-source><mrk
+            mtype="seg"
+            mid="1">blah blah</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-mif-string"
+        phase-name="pretrans"><source>Jay Heading 2</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Jay Heading 2</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-mif-paraline"
+        phase-name="pretrans"><source>blah blah blah<ph
+            id="1"
+            ctype="x-mif-marker" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Marker &lt;MType 2&gt;
+&lt;MTypeName `Index'&gt;
+<sub
+              ctype="x-mif-marker-mtext"
+              datatype="mif"
+              xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />
+&lt;MCurrPage `1'&gt;
+&lt;Unique 998378&gt;
+&gt;</ph>s</source><seg-source><mrk
+            mtype="seg"
+            mid="1">blah blah blah<ph
+              id="1"
+              ctype="x-mif-marker" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;Marker &lt;MType 2&gt;
+&lt;MTypeName `Index'&gt;
+<sub
+                ctype="x-mif-marker-mtext"
+                datatype="mif"
+                xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />
+&lt;MCurrPage `1'&gt;
+&lt;Unique 998378&gt;
+&gt;</ph>s</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-mif-string"
+        phase-name="pretrans"><source>Heading 3</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Heading 3</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-mif-string"
+        phase-name="pretrans"><source>adfadfa</source><seg-source><mrk
+            mtype="seg"
+            mid="1">adfadfa</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="x-mif-string"
+        phase-name="pretrans"><source>Heading 4</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Heading 4</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="x-mif-string"
+        phase-name="pretrans"><source>adfafsdf</source><seg-source><mrk
+            mtype="seg"
+            mid="1">adfafsdf</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

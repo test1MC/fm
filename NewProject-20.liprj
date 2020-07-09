@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="gu" xml:lang="gu" SourceLanguage="en" FileFormatVersion="6" CreatedInVersion="11" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="e9c80ec4-1a1a-4816-8fea-ffb22b165fe3">
+    <ProjectFile Source="Target/Jay.fm" Target="Target/Jay.fm" />
+</LingoProject>
